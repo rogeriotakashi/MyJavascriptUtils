@@ -1,0 +1,1 @@
+const saudacoes = require('./passandoParametros')('Rogerio','Takashi','Hirata');
